@@ -11,9 +11,9 @@ It is a .Net library for clever processing of requests from [datatables.net](htt
 
 The library significally [reduces boilerplate code](https://github.com/AlexanderKrutov/DataTables.Queryable/wiki/Boilerplate-code-reducing) and helps to avoid writing same logic of parsing requests for different model types.
 
-## Installation [![NuGet Status](http://img.shields.io/nuget/v/DataTables.Queryable.svg?style=flat)](https://www.nuget.org/packages/DataTables.Queryable/)
+## Installation [![NuGet Status](http://img.shields.io/nuget/v/DataTables.Queryable.svg?style=flat)](https://www.nuget.org/packages/DataTables.Queryable.Core/)
 ```
-PM> Install-Package DataTables.Queryable
+PM> Install-Package DataTables.Queryable.Core
 ```
 
 ## How to use it?
