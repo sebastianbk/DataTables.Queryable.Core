@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Author>Alexander Krutov</Author>
+    <Authors>Alexander Krutov</Authors>
     <Copyright>Copyright © Alexander Krutov 2018</Copyright>
     <Description>.Net library for clever processing of requests from datatables.net jQuery plugin on the server side (ASP.NET, Nancy or any other web server).</Description>
     <PackageLicenseUrl>https://github.com/AlexanderKrutov/DataTables.Queryable/blob/master/LICENSE</PackageLicenseUrl>
